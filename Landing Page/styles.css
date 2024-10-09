@@ -1,0 +1,199 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff4f5a;
+    padding: 15px 20px;
+}
+
+.logo {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: #fff;
+    font-size: 18px;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #ff6347;
+    color: white;
+    padding: 80px 0;
+    position: relative;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    background-color: #fff;
+    color: #ff6347;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.hero-img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 30px;
+}
+
+/* Featured Restaurants */
+.featured-restaurants {
+    background-color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.restaurants {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.restaurant {
+    width: 30%;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.restaurant img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.restaurant h3 {
+    margin-top: 10px;
+    color: #333;
+}
+
+.restaurant-link {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #ff6347;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* How It Works Section */
+.how-it-works {
+    background-color: #f4f4f4;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-between;
+}
+
+.step {
+    width: 30%;
+}
+
+.step img {
+    width: 80px;
+}
+
+.step h3 {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.step p {
+    font-size: 16px;
+    color: #777;
+}
+
+/* Download App Section */
+.download-app {
+    background-color: #ff4f5a;
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.download-app h2 {
+    font-size: 36px;
+}
+
+.download-app p {
+    font-size: 18px;
+}
+
+.download-app .cta-button {
+    background-color: #fff;
+    color: #ff4f5a;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.footer-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-links li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.footer-links a {
+    color: white;
+}
