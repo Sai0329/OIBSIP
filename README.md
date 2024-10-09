@@ -1,7 +1,7 @@
 # OIBSIP
 Web Development and Designing Internship
 
-The web development internship provides valuable hands-on experience in building and enhancing web-based systems. Interns will work on real-world projects and face engaging challenges that simulate industry-level tasks. This program offers an excellent opportunity to gain practical knowledge in web and app development, collaborating with an award-winning innovation team to develop essential skills for a career in the tech field.
+The web development internship provides hands-on experience in building and improving web-based systems through real-world projects. Interns will tackle industry-level challenges and work closely with an award-winning innovation team, gaining essential skills for a successful tech career. This program offers a perfect blend of learning and practical application, preparing participants for real-world demands. It’s an ideal opportunity for anyone looking to jumpstart their journey in web and app development.
 
 Level 1
 
