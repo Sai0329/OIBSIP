@@ -9,4 +9,4 @@ Project 1 - Landing page
 
 Project 2 - Portfolio
 
-Project 3 - Temperature Converter Website
+Project 3 - Temperature Converter 
